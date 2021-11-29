@@ -1,6 +1,6 @@
 (To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
-# Name (@github_id)
+# Name (@weusdapper)
 
 optional tag-line
 
@@ -11,9 +11,9 @@ optional tag-line
 optional bio
 
 ## Identities
-* [github](https://github.com/github_id)
+* [github](https://github.com/weusdapper)
 * [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
+* [linkedin](https://www.linkedin.com/in/john caleb marks)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
